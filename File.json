@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "name": "John Doe",
+      "age": 21,
+      "major": "Computer Science",
+      "courses": [
+        {
+          "course_name": "Data Structures",
+          "course_code": "CS202",
+          "grade": "A"
+        },
+        {
+          "course_name": "Algorithms",
+          "course_code": "CS303",
+          "grade": "B+"
+        }
+      ]
+    },
+    {
+      "name": "Jane Smith",
+      "age": 22,
+      "major": "Mechanical Engineering",
+      "courses": [
+        {
+          "course_name": "Thermodynamics",
+          "course_code": "ME101",
+          "grade": "A"
+        },
+        {
+          "course_name": "Fluid Mechanics",
+          "course_code": "ME202",
+          "grade": "A-"
+        }
+      ]
+    }
+  ]
+}
